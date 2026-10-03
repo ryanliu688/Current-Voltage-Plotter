@@ -12,11 +12,7 @@ at different temperatures) and download a slide with a labeled, multi-color,
    pip install -r requirements.txt
    streamlit run app.py
    ```
-3. Your browser opens the app. Upload `sample_iv_data.xlsx` to try it.
-
-## Put it online (free)
-Push this folder to a GitHub repo, then go to share.streamlit.io, pick the repo,
-and set the main file to `app.py`. You'll get a public link anyone can use.
+3. Your browser opens the app. Upload a sample Excel spreadsheet to try it.
 
 ## Files
 - `app.py`: the web page (upload, column pickers, labels, preview, download)
