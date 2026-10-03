@@ -1,4 +1,5 @@
 # Spreadsheet → PowerPoint Plotter
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://current-voltage-plotter.streamlit.app)
 
 Upload an Excel/CSV file with X/Y data for several trials (e.g. voltage vs. current
 at different temperatures) and download a slide with a labeled, multi-color,
